@@ -1,4 +1,4 @@
-# Pay me
+# Donate
 
 AliPay or WechatPay 
 
